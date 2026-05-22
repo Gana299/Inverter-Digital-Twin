@@ -16,3 +16,5 @@ with LC filter, SPWM modulation, PLL sync and fault detection.
 
 ## Author
 Electrical & Electronics Engineer
+## Simulation Results
+![Waveforms](waveforms.png)
